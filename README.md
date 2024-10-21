@@ -1,1 +1,1 @@
-This a program for my portfolio
+This a program for a career portfolio
